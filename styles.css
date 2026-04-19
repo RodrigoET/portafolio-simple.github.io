@@ -48,12 +48,10 @@ header p {
   border: 1px solid #e2e8f0;
   box-shadow: 0 4px 12px rgba(0,0,0,0.04);
 
-  /* 👇 clave para hover */
   transition: all 0.25s ease;
   cursor: pointer;
 }
 
-/* Hover (ahora sí visible) */
 .card:hover {
   transform: translateY(-8px);
   box-shadow: 0 10px 20px rgba(0,0,0,0.08);
