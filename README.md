@@ -1,2 +1,2 @@
-# portafolio_simple.github.io
+# portafolio_simple
 Portafolio con Github Pages
